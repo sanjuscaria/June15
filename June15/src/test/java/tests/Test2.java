@@ -10,5 +10,8 @@ public class Test2 {
 	public void add() {
 		
 	}
+		public void subtract() {
+		
+	}
 
 }
